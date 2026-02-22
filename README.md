@@ -23,15 +23,10 @@ Soy un apasionado por la tecnología, enfocado en crear arquitecturas de softwar
 - **[Overpass - Gimnasio de Escalada](https://damian-alonso.github.io/0verpass/)**
   
   <a href="https://damian-alonso.github.io/0verpass/" target="_blank">
-    <img src="./ovepass.jpg" alt="Vista previa de Overpass" width="700"/>
+    <img src="./overpass.jpg" alt="Vista previa de Overpass" width="700"/>
   </a>
   
   Desarrollo Back-End para un e-commerce orientado a un gimnasio de escalada. Implementación de una API para la gestión de productos, carritos y usuarios utilizando Java y Spring Boot, apoyado en el uso de contenedores Docker.
   
   **[🔗 Ver Proyecto en Vivo](https://damian-alonso.github.io/0verpass/)**
 
-### 📊 Mis Estadísticas en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radium" alt="Estadísticas de GitHub" />
-</p>
