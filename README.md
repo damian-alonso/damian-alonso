@@ -5,7 +5,6 @@
 Soy un apasionado por la tecnología, enfocado en crear arquitecturas de software robustas y escalables. Actualmente combino mi experiencia en Soporte Técnico IT con el desarrollo de soluciones Back-End.
 
 - 🎓 Estudiando la carrera de Analista de Sistemas.
-- 📫 Puedes contactarme en: https://www.linkedin.com/in/dami%C3%A1n-alonso-186660201/
 
 ### 🛠️ Tecnologías y Herramientas
 
