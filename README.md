@@ -23,8 +23,7 @@ Soy un apasionado por la tecnología, enfocado en crear arquitecturas de softwar
   
   <a href="https://damian-alonso.github.io/0verpass/" target="_blank">
     <img width="1345" height="532" alt="overpass" src="https://github.com/user-attachments/assets/84f9227c-488b-43c8-ad2d-6a6e589600e1" />
-  </a><img width="1345" height="532" alt="overpass" src="https://github.com/user-attachments/assets/10de4788-19b0-4e6b-9003-10c7b29b78a6" />
-
+  </a>
   
   Desarrollo Back-End para un e-commerce orientado a un gimnasio de escalada. Implementación de una API para la gestión de productos, carritos y usuarios utilizando Java y Spring Boot, apoyado en el uso de contenedores Docker.
   
