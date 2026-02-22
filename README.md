@@ -1,6 +1,6 @@
 # ¡Hola! Soy Damián
 
-### Desarrollador Back-End Junior | Analista de Sistemas
+### Desarrollador Back-End Junior
 
 Soy un apasionado por la tecnología, enfocado en crear arquitecturas de software robustas y escalables. Actualmente combino mi experiencia en Soporte Técnico IT con el desarrollo de soluciones Back-End.
 
