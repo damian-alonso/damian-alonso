@@ -1,4 +1,4 @@
-# ¡Hola! Soy Damián 👋
+# ¡Hola! Soy Damián
 
 ### Desarrollador Back-End Junior | Analista de Sistemas
 
