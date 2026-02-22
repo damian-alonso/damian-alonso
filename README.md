@@ -26,6 +26,12 @@ Soy un apasionado por la tecnología, enfocado en crear arquitecturas de softwar
   </a>
   
   Desarrollo Back-End para un e-commerce orientado a un gimnasio de escalada. Implementación de una API para la gestión de productos, carritos y usuarios utilizando Java y Spring Boot, apoyado en el uso de contenedores Docker.
+    
+  **🛠️ Tecnologías utilizadas:**
+  * **Back-End:** Java, Spring Boot (Desarrollo de API RESTful).
+  * **Infraestructura:** Docker (Contenedorización de la aplicación).
+  * **Testing:** Postman (Pruebas y validación de endpoints).
+  * **Despliegue Front-End:** GitHub Pages.
   
   **[🔗 Ver Proyecto en Vivo](https://damian-alonso.github.io/0verpass/)**
 
