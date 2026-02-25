@@ -39,7 +39,7 @@ Java y Spring Boot, apoyado en el uso de contenedores Docker.
 
 - **[Sistema de Tickets - Soporte Técnico Área de Salud](https://damian-alonso.github.io/sistema-tickets-salud/)**
  
-  <a href="https://damian-alonso.github.io/0verpass/" target="_blank">
+  <a href="https://damian-alonso.github.io/sistema-tickets-salud/" target="_blank">
     <img width="1345" height="532" alt="sistema-de-tickets" src="https://github.com/user-attachments/assets/16f50ff9-54f2-4ee9-965c-1f4a34ce097a" />
   </a>
   
