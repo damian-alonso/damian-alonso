@@ -42,12 +42,12 @@ Soy un apasionado por la tecnología, enfocado en crear arquitecturas de softwar
   
     Desarrollo full-stack de una plataforma web para la gestión de consultas y tickets de soporte técnico. Implementación de una API RESTful para el seguimiento de tareas, control de       estados de los tickets, autenticación básica de técnicos y generación dinámica de reportes.
     
-  **🛠️ Tecnologías utilizadas:**
-    * **Front-End:** HTML, CSS, JavaScript, Chart.js (Interfaz de usuario y visualización de datos en gráficos).
-    * **Back-End:** Java 17, Spring Boot 3, Spring Data JPA (Desarrollo de API RESTful y ORM).
-    * **Base de Datos:** MySQL 8 (Persistencia de tickets y usuarios).
-    * **Infraestructura:** Docker, Docker Compose (Contenedorización de la API y la base de datos).
-    * **Generación de Reportes:** Apache POI, Apache PDFBox (Exportación de listados a formatos Excel y PDF).
+    **🛠️ Tecnologías utilizadas:**
+      * **Front-End:** HTML, CSS, JavaScript, Chart.js (Interfaz de usuario y visualización de datos en gráficos).
+      * **Back-End:** Java 17, Spring Boot 3, Spring Data JPA (Desarrollo de API RESTful y ORM).
+      * **Base de Datos:** MySQL 8 (Persistencia de tickets y usuarios).
+      * **Infraestructura:** Docker, Docker Compose (Contenedorización de la API y la base de datos).
+      * **Generación de Reportes:** Apache POI, Apache PDFBox (Exportación de listados a formatos Excel y PDF).
 
     **[🔗 Ver Proyecto en Vivo](https://damian-alonso.github.io/sistema-tickets-salud/)**
 
