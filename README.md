@@ -43,8 +43,8 @@ Java y Spring Boot, apoyado en el uso de contenedores Docker.
     <img width="1345" height="532" alt="sistema-de-tickets" src="https://github.com/user-attachments/assets/16f50ff9-54f2-4ee9-965c-1f4a34ce097a" />
   </a>
   
-  Desarrollo full-stack de una plataforma web para la gestión de consultas y tickets de soporte técnico. Implementación de una API RESTful para el seguimiento de
-  tareas, control de estados de los tickets, autenticación básica de técnicos y generación dinámica de reportes.
+Desarrollo full-stack de una plataforma web para la gestión de consultas y tickets de soporte técnico. Implementación de una API RESTful para el seguimiento de
+tareas, control de estados de los tickets, autenticación básica de técnicos y generación dinámica de reportes.
     
    **🛠️ Tecnologías utilizadas:**
    * **Front-End:** HTML, CSS, JavaScript, Chart.js (Interfaz de usuario y visualización de datos en gráficos).
